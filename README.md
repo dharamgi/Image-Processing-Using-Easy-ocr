@@ -1,8 +1,5 @@
 # How to extract text from images using EasyOCR Python Library (Deep Learning)
 
-**If you like my work, you can support me by buying me a coffee by clicking the link below**
-
-<a href="https://www.buymeacoffee.com/bhattbhavesh91" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Click to open the Notebook directly in Google Colab
 <a href="https://colab.research.google.com/github/bhattbhavesh91/easyocr-demo/blob/master/easy-ocr-demo-notebook.ipynb" target="_blank"><img height="40" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
